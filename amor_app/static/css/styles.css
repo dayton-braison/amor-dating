@@ -1,0 +1,10 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+body {
+    background-color: #f8f8f8;
+    background-image: url(data:image/svg+xml;base64,PHN2ZyB4bWxucz0naHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmcnIHdpZHRoPSc1NScgaGVpZ2h0PSc1NScgdmlld0JveD0nMCAwIDQ4MyA0ODMnPgoJPHBhdGggZD0nTTI0MS41LDIyM2MwLC0zMCA0MCwtMzAgNDAsMGMwLDMwIC00MCw2MCAtNDAsNjBjMCwwIC00MCwtMzAgLTQwLC02MGMwLC0zMCA0MCwtMzAgNDAsMCcgZmlsbD0nI2EwMCcvPgo8L3N2Zz4K);
+}
